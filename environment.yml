@@ -10,7 +10,7 @@ dependencies:
     - pandas
     - thinc
     - tqdm
-    - splearn
+    - sklearn
     - Pillow
     - xgboost
     - sympy
